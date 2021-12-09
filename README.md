@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="tic-tac-toe-project1.netlify.app">
+    <a href="https://tic-tac-toe-project1.netlify.app">
       Demo
     </a>
   </h3>
